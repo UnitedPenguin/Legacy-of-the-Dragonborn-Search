@@ -20,9 +20,11 @@ To install this extension:
 4. Click on the 'Search Dragonborn Wiki' button in the extension's popup.
 5. A new tab will open with search results from the Legacy of the Dragonborn wiki for the query you typed into Google's search bar.
 
+Note: Feel free to change the icon.png file to change how the extention looks!
+
 ## Contributing
 
-Pull requests are welcome. 
+Pull requests are welcome.
 
 ## License
 
